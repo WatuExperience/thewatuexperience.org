@@ -13,7 +13,13 @@ Our goal is to reveal market opportunities to be explored by the Kenyan industry
 * **Participants**: ~20 from Kenya and around the world. Participants will include
   Researchers, Story Tellers, UX Designers, Developers and more.
 * **Focus**: This year's focus will be Education
-* **Team**: [Jessica Colaco](jcolaco), [Gregor Martynus](gr2m), [Emi Maj](EmiMaj), [Anne Salim](anny320), [Frank Tamre](tamzi)
+* **Team**: 
+  [Jessica Colaco](https://github.com/jcolaco) & [Gregor Martynus](https://github.com/gr2m) (lead), 
+  [Angela Crandall](https://github.com/Honoluluskye),
+  [Anne Salim](https://github.com/anny320), 
+  [Emi Maj](https://github.com/EmiMaj), 
+  [Frank Tamre](https://github.com/tamzi)
+
 
 ## Contact
 
