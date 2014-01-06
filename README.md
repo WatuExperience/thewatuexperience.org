@@ -14,11 +14,12 @@ Our goal is to reveal market opportunities to be explored by the Kenyan industry
   Researchers, Story Tellers, UX Designers, Developers and more.
 * **Focus**: This year's focus will be Education
 * **Team**: 
-  [Jessica Colaco](https://github.com/jcolaco) & [Gregor Martynus](https://github.com/gr2m) (lead), 
+  [Jessica Colaco](https://github.com/jcolaco) (lead), 
   [Angela Crandall](https://github.com/Honoluluskye),
   [Anne Salim](https://github.com/anny320), 
   [Emi Maj](https://github.com/EmiMaj), 
-  [Frank Tamre](https://github.com/tamzi)
+  [Frank Tamre](https://github.com/tamzi),
+  [Gregor Martynus](https://github.com/gr2m)
 
 
 ## Contact
