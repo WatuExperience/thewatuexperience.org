@@ -9,7 +9,7 @@ Our goal is to reveal market opportunities to be explored by the Kenyan industry
 
 ## Facts
 
-* **Time frame**: 2 weeks in July 2014 - 12th - 25th 
+* **Time frame**: Around July 12-25th
 * **Participants**: ~10 from Kenya and around the world. Participants will include
   Researchers, Story Tellers, UX Designers, Developers and more.
 * **Focus**: This year's focus will be Education
