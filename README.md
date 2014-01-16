@@ -18,7 +18,6 @@ Our goal is to reveal market opportunities to be explored by the Kenyan industry
   [Angela Crandall](https://github.com/Honoluluskye),
   [Anne Salim](https://github.com/anny320), 
   [Emi Maj](https://github.com/EmiMaj), 
-  [Frank Tamre](https://github.com/tamzi),
   [Gregor Martynus](https://github.com/gr2m)
 
 
