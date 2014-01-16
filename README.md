@@ -15,8 +15,8 @@ Our goal is to reveal market opportunities to be explored by the Kenyan industry
 * **Focus**: This year's focus will be Education
 * **Team**: 
   [Jessica Colaco](https://github.com/jcolaco) (lead), 
-  [Angela Crandall](https://github.com/Honoluluskye) (lead),,
-  [Anne Salim](https://github.com/anny320), 
+  [Angela Crandall](https://github.com/Honoluluskye) ,,
+  [Anne Salim](https://github.com/anny320) (lead), 
   [Emi Maj](https://github.com/EmiMaj), 
   [Gregor Martynus](https://github.com/gr2m)
 
