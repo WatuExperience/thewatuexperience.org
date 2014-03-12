@@ -5,7 +5,8 @@ The Watu Experience
 
 A group of diverse experts will travel across Kenya to research problems & opportunities
 in everyday life and to create practical concepts on how to build upon them.
-Our goal is to reveal market opportunities to be explored by the Kenyan industry.
+Our goal is to reveal market opportunities to be explored by the uprising
+Kenyan tech industry.
 
 ## Facts
 
