@@ -11,7 +11,7 @@ Kenyan tech industry.
 ## Facts
 
 * **Time frame**: Around July 12-25th
-* **Participants**: ~10 from Kenya and around the world. Participants will include
+* **Participants**: 8 from Kenya and around the world. Participants will include
   Researchers, Story Tellers, UX Designers, Developers and more.
 * **Focus**: This year's focus will be Education
 * **Team**: 
